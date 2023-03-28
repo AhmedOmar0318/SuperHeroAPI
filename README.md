@@ -17,5 +17,6 @@ Built With
 HTML
 CSS
 JavaScript
+
 API
 The Super Hero App uses the Superhero API to retrieve information about super heroes.
