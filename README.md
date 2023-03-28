@@ -1,4 +1,5 @@
 Super Hero App
+
 The Super Hero App is a web application that allows users to search for a super hero by name or generate a random hero. The app displays information about the hero's name, an image, and power stats, such as intelligence, strength, speed, power, combat, and durability.
 
 Getting Started
